@@ -14,11 +14,13 @@ Then creates .yaml file that is needed to start training with yolov5.
 
 Test video created in the Unity can be viewed at the link:
 https://youtu.be/yTYo0UyHuVY
+
 [![Furniture_yolo_vision](https://img.youtube.com/vi/yTYo0UyHuVY/0.jpg)](https://www.youtube.com/watch?v=yTYo0UyHuVY)
 
 
 And the finished result:
 https://youtu.be/XPY2i-l7CJ8
+
 [![Furniture_yolo_vision](https://img.youtube.com/vi/XPY2i-l7CJ8/0.jpg)](https://www.youtube.com/watch?v=XPY2i-l7CJ8)
 
 
