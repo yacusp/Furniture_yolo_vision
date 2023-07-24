@@ -1,0 +1,9 @@
+Training:
+python train.py --img 640 --epochs 3 --data my_fur_train.yaml --weights yolov5s.pt
+python train.py --img 640 --batch 16 --epochs 3 --data my_fur_train.yaml --weights yolov5s.pt --cache disk
+python train.py --img 640 --batch 16 --epochs 3 --data my_fur_train_small.yaml --weights yolov5s.pt --cache disk
+python train.py --img 640 --batch 2 --epochs 10 --data my_fur_train_small.yaml --weights yolov5s.pt --cache disk
+python train.py --img 640 --batch 16 --epochs 10 --data Furniture_set_500.yaml --weights yolov5s.pt --cache disk
+
+Run:
+python detect.py --weights ..\yolov5\runs\exp15\weights\last.pt --source ..\test_video\Furniture_1.mp4

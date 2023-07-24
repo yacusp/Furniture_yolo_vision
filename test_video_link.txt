@@ -1,0 +1,4 @@
+https://youtu.be/yTYo0UyHuVY
+
+Vidoe with simple 3D scene made in Unity using free assets.
+Used to test YOLOV5 trained on self-made synthetic data set created out of the same 3D models.
